@@ -7,6 +7,7 @@ I'm Marcel and I've been working as a freelance Senior Software Developer since 
 ## Get in contact:
 - [https://linkedin.com/in/marcelscherf](LinkedIn)
 - [ms@nextlevel.is](ms@nextlevel.is)
+- [https://bit.ly/cv-mscherf](Download CV)
 
 ## My current professional skill stack:
 
