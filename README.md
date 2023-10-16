@@ -2,19 +2,23 @@ Hi 👋
 
 I'm Marcel and I've been working as a freelance Senior Software Developer since 2010.
 
-**Currently open for new freelance remote projects.**
+## I'm available for projects!
+
+> [!NOTE]
+> **Currently available for new freelance remote projects.**
+
+## My Professional skill stack:
+
+- TypeScript / JavaScript, Node.js, React.js, and related technologies
+
+> [!NOTE]
+> I've worked with many different tools and frameworks over the years and am quick to adapt to new environments and technologies.
 
 ## 💬 Contact me
 - [Portfolio website](https://nextlevel.is)
 - [LinkedIn](https://linkedin.com/in/marcelscherf)
 - [Email](ms@nextlevel.is)
 - [Download CV](https://bit.ly/cv-mscherf)
-
-## My current professional skill stack:
-
-- TypeScript / JavaScript, Node.js, React.js, and related technologies
-
-I've worked with many different tools and frameworks over the years and I an quick to adapt to new environments and technologies.
 
 
 ## Previous projects I worked on
