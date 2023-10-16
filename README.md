@@ -5,10 +5,10 @@ I'm Marcel and I've been working as a freelance Senior Software Developer since 
 **Currently open for new freelance remote projects.**
 
 ## 💬 Contact me
-- [https://nextlevel.is](Portfolio website)
-- [https://linkedin.com/in/marcelscherf](LinkedIn)
-- [ms@nextlevel.is](ms@nextlevel.is)
-- [https://bit.ly/cv-mscherf](Download CV)
+- [Portfolio website](https://nextlevel.is)
+- [LinkedIn](https://linkedin.com/in/marcelscherf)
+- [Email](ms@nextlevel.is)
+- [Download CV](https://bit.ly/cv-mscherf)
 
 ## My current professional skill stack:
 
